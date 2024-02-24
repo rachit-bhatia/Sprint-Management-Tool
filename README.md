@@ -1,2 +1,2 @@
 # Project Management Tool
-Online tool for groups to manage their project sprints
+Frontend of an online tool for groups to manage their project sprints
